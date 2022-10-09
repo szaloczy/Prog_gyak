@@ -1,0 +1,1 @@
+Írjon C programot, amely bekér egy karakterláncot, majd kiírja, hogy a megadott szöveg karaktereinek hány százaléka magánhangzó!

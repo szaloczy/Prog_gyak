@@ -1,0 +1,16 @@
+Írjon C programot, amely bekér egy karaktert, majd eldönti, hogy benne van-e az ábécében, illetve magánhangzó vagy mássalhangzó. Az eredményt írassa ki!
+
+Példa input, ha a karakter része az ábécének és mássalhangzó:
+t
+Példa output, ha a karakter része az ábécének és mássalhangzó:
+t mássalhangzó
+
+Példa input, ha a karakter része az ábécének és magánhangzó:
+o
+Példa output, ha a karakter része az ábécének és magánhangzó:
+o magánhangzó
+
+Példa input, ha a karakter nem része az ábécének:
+@
+Példa output:
+@ nincs az angol ABC-ben

@@ -1,0 +1,2 @@
+Írjon telefonhasználati díjak számlázására alkalmas programot. Összesítse N db hívás után a telefonhasználati díjakat hívás típusonként (1-külföldi, 2-hálózaton kívüli, 3-hálózaton belüli). A hívási időt percben adja meg a felhasználó. Díjszabás: külföldi hívás 100 Ft/perc, hálózaton kívüli hívás 60 Ft/perc, hálózaton belüli hívás 40 Ft/perc.
+Írja ki a számla végösszegét!

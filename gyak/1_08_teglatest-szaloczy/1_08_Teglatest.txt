@@ -1,0 +1,2 @@
+Készítsen C programot, amely bekéri egy téglatest három oldalának hosszát és kiszámítja annak felszínét (A = 2 * (a*b + a*c + b*c)) és térfogatát (V = a*b*c).
+Az eredményt írassa ki!

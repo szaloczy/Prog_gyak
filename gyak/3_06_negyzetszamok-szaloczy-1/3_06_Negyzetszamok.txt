@@ -1,0 +1,1 @@
+Írjon C programot, amely bekér egy pozitív egész számot, majd 1-től a megadott értékig megszámolja, hogy hány darab négyzetszám van. Az eredményt írassa ki!

@@ -1,0 +1,1 @@
+Írjon C programot, amely a derékszögű háromszög két befogójának ismeretében kiszámítja az átfogóját. A két befogó értékét a felhasználó adja meg. A négyzetreemeléshez használja a math.h -ban deklarált double pow(double, double) függvényt. Az eredményt írassa ki!

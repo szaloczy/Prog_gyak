@@ -1,0 +1,1 @@
+Kérjen be 2 számot, majd írja ki, hogy melyik a nagyobb. Ha a két szám egyenlő értékű, akkor írja ki, hogy "The given numbers are equal".

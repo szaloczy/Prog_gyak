@@ -1,0 +1,5 @@
+Kérjen be 2 db egész számot, majd cserélje fel őket. Az eredményt írassa ki!
+Példa input:
+5, 6
+Példa output:
+6, 5

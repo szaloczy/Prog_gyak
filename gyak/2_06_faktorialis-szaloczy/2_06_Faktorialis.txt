@@ -1,0 +1,2 @@
+Írjon C programot egy beolvasott N érték faktoriálisának kiszámítására, és írja ki az eredményt! Tesztelje, hogy mekkora N esetén fér el az eredmény int típusú változóban! A beolvasásnál korlátozza N értékét ennek megfelelően. A feladatot végezze el úgy is, hogy az eredményt long típusú változóban tárolja!
+Figyeljen arra, hogy 0! = 1.

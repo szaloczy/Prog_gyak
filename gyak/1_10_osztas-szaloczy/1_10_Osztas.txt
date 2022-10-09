@@ -1,0 +1,5 @@
+Írjon C programot, amely beolvas két egész számot, és kiírja az osztás eredményét az alábbi formában: osztandó / osztó = hányados, remainder: x. Ugyanezt oldja meg valós (double típusú) számokkal is. Az osztási maradék kiszámításához használja a math.h double fmod(double, double) függvényét.
+Példa input:
+101, 2
+Példa output:
+101 / 2 = 50, remainder: 1

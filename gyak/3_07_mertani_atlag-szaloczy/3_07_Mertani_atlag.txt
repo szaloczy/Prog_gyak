@@ -1,0 +1,1 @@
+Írjon C programot, amely bekér egy számot, és kiszámítja 1-től a megadott értékig lévő egész számok mértani átlagát. Az eredményt írassa ki!

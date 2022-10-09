@@ -1,0 +1,17 @@
+Az EURO árfolyamát egy negyedéven keresztül hetente nyilvántartjuk (HUF / EUR). Írjon C programokat az alábbi kérdések megválaszolására.
+a) Olvasson be 12 valós értékű (pl. 408.15) adatot egy tömbbe ellenőrzött módon. Hibás adat megadása esetén a program kérje be ismét az elemet és írja ki az alábbi karakterláncot: Hibas adat. Adja meg ujra!
+Az elemek beolvasása után írja ki, hogy hányszor volt a negyedévben 400 Ft alatt az árfolyam értéke!
+Példa output: Az arfolyam erteke 5 alkalommal volt 400 alatt.
+b) Monoton nőtt-e az árfolyam a negyedév során?
+Példa output: A sorozat monoton novekvo: hamis.
+c) Melyik héten volt a legmagasabb, és melyiken a legalacsonyabb az árfolyam? Melyek voltak ezek a szélsőértékek?
+Példa output: 
+Az arfolyam a 11. heten volt a legmagasabb 414.28 ertekkel es a 4. heten a legalacsonyabb 395.69 ertekkel.
+d) Mennyi az adott negyedévre vonatkozó átlagos árfolyam érték? Előjelhelyesen írja ki, hogy az egyes adatok mennyivel térnek el az átlagtól. Ezt a feladatot pointer használatával is oldja meg.
+Példa output:
+Atlagos arfolyam: 402.16
+1. elem atlagtol valo elterese: -11.01
+2. elem atlagtol valo elterese: -6.19
+(etc.)
+
+Az egyes részfeladatok megoldása során írassa ki az eredményeket!

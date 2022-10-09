@@ -1,0 +1,5 @@
+-1000 és 1000 közé eső számokkal ellenőrzött beolvasással töltsön fel egy 20 elemű integer tömböt, majd végezze el az alábbi feladatokat:
+a) Válogassa szét a tömb elemeit pozitív és negatív számokra.
+b) Számítsa ki a résztömbök átlagát.
+c) Végül kérjen be egy számot, és döntse el, hogy eleme-e a tömbnek. Ha igen, írja ki azt is, hogy hányadik eleme az alábbi formában: A keresett ertek a tomb 5. eleme.
+Ha nem eleme, akkor írja ki, hogy: A keresett ertek nem eleme a tombnek.

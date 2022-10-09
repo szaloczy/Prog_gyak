@@ -1,0 +1,1 @@
+Kérjen be vesszővel elválasztva két évszámot, majd számolja meg az intervallumba eső szökőévek számát. Az eredményt írassa ki!

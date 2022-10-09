@@ -1,0 +1,1 @@
+Kérjen be 2 értéket vesszővel elválasztva, majd végezze el a hatványozást és írja ki az eredményt. Kezelje azt a lehetőséget is, ha a kitevő 0.

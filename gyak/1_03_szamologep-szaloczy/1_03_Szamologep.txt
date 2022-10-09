@@ -1,0 +1,6 @@
+Írjon C programot, amely bekér egy műveletet és elvégzi a számítást.
+Támogatott műveletek: összeadás, kivonás, szorzás, osztás, modulo.
+Példa input:
+5+2
+Példa output:
+7

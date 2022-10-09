@@ -1,0 +1,1 @@
+A double fabs(double) függvény segítségével állapítsa meg egy beolvasott szám abszolút értékét. Az eredményt írassa ki!

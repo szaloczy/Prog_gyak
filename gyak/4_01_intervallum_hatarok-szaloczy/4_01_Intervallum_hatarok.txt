@@ -1,0 +1,1 @@
+Ellenőrzött adatbeolvasással adjon meg egy intervallumot (alsóhatár < felsőhatár). Majd olvasson be N darab számot és számolja meg, hogy a megadott számok közül hány darab esik az intervallumba. Az eredményt írassa ki!

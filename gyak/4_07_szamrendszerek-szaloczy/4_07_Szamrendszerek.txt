@@ -1,0 +1,1 @@
+Kérjen be egy kettes számrendszerbeli számot és konvertálja át tízes számrendszerben adott számra. Az eredményt írassa ki!

@@ -1,0 +1,1 @@
+Készítsen C programot, amely kiszámítja két pozitív szám számtani és mértani közepét. A kód működjön valós szám esetén is. Az eredményt írassa ki!
